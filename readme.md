@@ -32,19 +32,18 @@ Ao final da execução do código deve se exibir uma mensagem:
 1. Clone ou baixe este repositório em sua máquina:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/duducavalcanti/DESAFIO-LOGICA.git
    ```
 
 2. Acesse a pasta do projeto:
 
-   cd nome-do-projeto
+   cd DESAFIO-LOGICA
 
 3. Abra o arquivo index.html em um navegador de sua preferência
    (Chrome, Firefox, Edge, etc.).
 
 4. O navegador exibirá automaticamente as janelas de entrada (prompt) para:
    - Nome do herói
-
    - Quantidade de XP
 
 5. Após cada entrada, o resultado será exibido:
